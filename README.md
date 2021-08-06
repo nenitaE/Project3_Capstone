@@ -7,9 +7,10 @@
     Benny Antony
     Nenita Espinosa
     Steve Adeneye
+</div>
 
 ## Purpose
-</div>
+
 
 * Create a smart contract to register a vehicle for sale on an Ethereum blockchain auction
 
@@ -24,6 +25,10 @@
 
 <div align="center">
 
+## Solidity Contract
+![code](solidity.png "Solidity")
+
+<br/><br/>
 ## Deployed Contract
 
 ![deployed](deployed.png "Deployed to Testnet")
@@ -41,4 +46,4 @@
 
 
 
-</div>
+
