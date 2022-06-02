@@ -1,0 +1,38 @@
+[
+  {
+      "id": 0,
+      "name": "Adam’s Python Monster truck",
+      "picture": "images/Python.jpg",
+      "description": "When you have a big brain, you need a big truck!",
+      "minimum_increment": "2",
+      "original_price": "100",
+      "more_info": "https://monstertruck.fandom.com/wiki/Snake"
+  },
+  {
+      "id": 1,
+      "name": "Steve's Subaru Wagon",
+      "picture": "images/Swagon.jpg",
+      "description": "Made for Nerds that love adventures.",
+      "minimum_increment": "1",
+      "original_price": "50",
+      "more_info": "https://en.wikipedia.org/wiki/Subaru_Outback"
+  },
+  {
+      "id": 2,
+      "name": "Nenita's G Wagon",
+      "picture": "images/Nita.jpg",
+      "description": "Stylish,Functional, Expensive!",
+      "minimum_increment": "35",
+      "original_price": "150",
+      "more_info": "https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class"
+  },
+  {
+      "id": 3,
+      "name": "Benny's Porsche",
+      "picture": "images/911.jpg",
+      "description": "For distinguished developers.",
+      "minimum_increment": "100",
+      "original_price": "1000",
+      "more_info": "https://en.wikipedia.org/wiki/Porsche_911"
+  }
+]
